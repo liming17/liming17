@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="CV.pdf"><strong>CV</strong></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/liming17/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/liming17/">LinkedIn</a>
 </p>
 
 Hi 👋 I'm **Liming Liu**, an independent researcher and software engineer based in Vancouver, Canada. I study how agents can use and compose capabilities reliably, and how evaluation can reveal where their behavior breaks down.
@@ -56,4 +56,4 @@ My engineering background motivates questions about agents operating across tool
 
 I'm interested in PhD opportunities and research conversations around **reliable autonomous agents and agent evaluation**.
 
-[CV](CV.pdf) · [LinkedIn](https://www.linkedin.com/in/liming17/) · [liming.ubc.17@gmail.com](mailto:liming.ubc.17@gmail.com)
+[CV](CV.pdf) · [LinkedIn](https://www.linkedin.com/in/liming17/)
